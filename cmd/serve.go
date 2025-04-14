@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/guervild/uru/pkg/api"
+	"github.com/adamstebbing/uru/pkg/api"
 
 	"github.com/spf13/cobra"
 )
