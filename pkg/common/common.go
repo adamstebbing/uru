@@ -12,7 +12,7 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/guervild/uru/data"
+	"github.com/adamstebbing/uru/data"
 )
 
 func RandomInt(start, end int) int {

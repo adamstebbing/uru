@@ -3,11 +3,11 @@ package injector
 import (
 	"fmt"
 
-	cnative "github.com/guervild/uru/pkg/injector/c/windows/native"
-	gobananaphone "github.com/guervild/uru/pkg/injector/go/windows/bananaphone"
-	gonative "github.com/guervild/uru/pkg/injector/go/windows/native"
+	cnative "github.com/adamstebbing/uru/pkg/injector/c/windows/native"
+	gobananaphone "github.com/adamstebbing/uru/pkg/injector/go/windows/bananaphone"
+	gonative "github.com/adamstebbing/uru/pkg/injector/go/windows/native"
 
-	"github.com/guervild/uru/pkg/models"
+	"github.com/adamstebbing/uru/pkg/models"
 )
 
 func GetInjector(injectorType string, langType string) (models.ObjectModel, error) {

@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/guervild/uru/pkg/common"
-	"github.com/guervild/uru/pkg/logger"
+	"github.com/adamstebbing/uru/pkg/common"
+	"github.com/adamstebbing/uru/pkg/logger"
 )
 
 type CConfig struct {

@@ -3,7 +3,7 @@ package cmd
 import (
 	"log"
 
-	"github.com/guervild/uru/pkg/logger"
+	"github.com/adamstebbing/uru/pkg/logger"
 
 	"github.com/spf13/cobra"
 )

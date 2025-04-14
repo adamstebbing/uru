@@ -4,8 +4,8 @@ import (
 	"embed"
 	"encoding/hex"
 
-	"github.com/guervild/uru/pkg/common"
-	"github.com/guervild/uru/pkg/models"
+	"github.com/adamstebbing/uru/pkg/common"
+	"github.com/adamstebbing/uru/pkg/models"
 )
 
 type HexEncoder struct {

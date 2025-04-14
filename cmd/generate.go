@@ -5,9 +5,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/guervild/uru/pkg/builder"
-	"github.com/guervild/uru/pkg/common"
-	"github.com/guervild/uru/pkg/logger"
+	"github.com/adamstebbing/uru/pkg/builder"
+	"github.com/adamstebbing/uru/pkg/common"
+	"github.com/adamstebbing/uru/pkg/logger"
 
 	"github.com/spf13/cobra"
 )

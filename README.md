@@ -2,8 +2,8 @@
 
 Uru is a payload generation tool that enables you to create payload based on a configuration file.
 
-## Prerequisites
-To use all the functionnalities offered by Uru, it is recommended to install:
+## Install
+To use all the functionalities offered by Uru, it is recommended to install:
 - [garble](https://github.com/burrowers/garble)
   
 ```
@@ -13,12 +13,17 @@ go install mvdan.cc/garble@latest
 - [bananaphone](https://github.com/C-Sto/BananaPhone)
 
 ```
-go install github.com/C-Sto/BananaPhone
+go install github.com/C-Sto/BananaPhone@latest
 ```
 
 To use the signing option (limelighter), the following packages are needed:
 - openssl
 - osslsigncode
+
+To install this fork of uru, run:
+```
+go install github.com/adamstebbing/uru@latest
+```
 
 ## Usage
 
@@ -310,8 +315,8 @@ package evasion
 import (
 	"embed"
 
-	"github.com/guervild/uru/pkg/common"
-	"github.com/guervild/uru/pkg/models"
+	"github.com/adamstebbing/uru/pkg/common"
+	"github.com/adamstebbing/uru/pkg/models"
 )
 
 type PrintTestEvasion struct {

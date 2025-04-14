@@ -15,7 +15,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/guervild/uru/pkg/logger"
+	"github.com/adamstebbing/uru/pkg/logger"
 
 )
 

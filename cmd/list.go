@@ -6,12 +6,12 @@ import (
 	"strings"
 	"path/filepath"
 
-	"github.com/guervild/uru/pkg/common"
-	"github.com/guervild/uru/pkg/encoder"
-	"github.com/guervild/uru/pkg/evasion"
-	"github.com/guervild/uru/pkg/injector"
-	"github.com/guervild/uru/pkg/logger"
-	"github.com/guervild/uru/data"
+	"github.com/adamstebbing/uru/pkg/common"
+	"github.com/adamstebbing/uru/pkg/encoder"
+	"github.com/adamstebbing/uru/pkg/evasion"
+	"github.com/adamstebbing/uru/pkg/injector"
+	"github.com/adamstebbing/uru/pkg/logger"
+	"github.com/adamstebbing/uru/data"
 
 	"github.com/spf13/cobra"
 )

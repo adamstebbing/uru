@@ -5,8 +5,8 @@ package compiler
 import (
 	"bytes"
 	"fmt"
-	"github.com/guervild/uru/pkg/common"
-	"github.com/guervild/uru/pkg/tampering"
+	"github.com/adamstebbing/uru/pkg/common"
+	"github.com/adamstebbing/uru/pkg/tampering"
 	"go/build"
 	"os"
 	"os/exec"
@@ -15,7 +15,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/guervild/uru/pkg/logger"
+	"github.com/adamstebbing/uru/pkg/logger"
 )
 
 type GoConfig struct {

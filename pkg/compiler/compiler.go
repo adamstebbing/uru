@@ -6,7 +6,7 @@ import (
 	"strings"
 	"os/exec"
 
-	"github.com/guervild/uru/pkg/common"
+	"github.com/adamstebbing/uru/pkg/common"
 )
 
 type compiler interface {

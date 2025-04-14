@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"path/filepath"
 
-	"github.com/guervild/uru/pkg/common"
+	"github.com/adamstebbing/uru/pkg/common"
 
 	"github.com/josephspurrier/goversioninfo"
 )

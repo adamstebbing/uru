@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/guervild/uru/pkg/builder"
-	"github.com/guervild/uru/pkg/logger"
+	"github.com/adamstebbing/uru/pkg/builder"
+	"github.com/adamstebbing/uru/pkg/logger"
 
 	"github.com/gorilla/mux"
 )

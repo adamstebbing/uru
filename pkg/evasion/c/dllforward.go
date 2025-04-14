@@ -3,7 +3,7 @@ package c
 import (
 	"embed"
 	"fmt"
-	"github.com/guervild/uru/pkg/models"
+	"github.com/adamstebbing/uru/pkg/models"
 	peparser "github.com/saferwall/pe"
 	"os"
 )

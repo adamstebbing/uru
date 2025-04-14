@@ -2,9 +2,9 @@ package encoder
 
 import (
 	"fmt"
-	"github.com/guervild/uru/pkg/encoder/c"
-	"github.com/guervild/uru/pkg/encoder/go"
-	"github.com/guervild/uru/pkg/models"
+	"github.com/adamstebbing/uru/pkg/encoder/c"
+	"github.com/adamstebbing/uru/pkg/encoder/go"
+	"github.com/adamstebbing/uru/pkg/models"
 )
 
 func GetEncoder(encoderType string, langType string) (models.ObjectModel, error) {
