@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/guervild/uru/cmd"
+	"github.com/adamstebbing/uru/cmd"
 )
 
 func main() {
