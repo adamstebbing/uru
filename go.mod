@@ -1,4 +1,4 @@
-module github.com/guervild/uru
+module github.com/adamstebbing/uru
 
 go 1.19
 
