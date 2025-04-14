@@ -13,7 +13,7 @@ go install mvdan.cc/garble@latest
 - [bananaphone](https://github.com/C-Sto/BananaPhone)
 
 ```
-go get github.com/C-Sto/BananaPhone
+go install github.com/C-Sto/BananaPhone
 ```
 
 To use the signing option (limelighter), the following packages are needed:
